@@ -1,4 +1,4 @@
-name: Publish 🚀
+name: Publish Azure CICD Pipeline
 
 on:
   workflow_dispatch:
